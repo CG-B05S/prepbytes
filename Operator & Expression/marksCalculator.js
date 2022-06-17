@@ -8,7 +8,7 @@ const Sum = (A, B, C) =>
 const Average = (A, B, C) => 
 {
  let result2;
- result2 = ((A+B+C)/3);
+ result2 =((A+B+C)/3);
  return result2;
 };
 
