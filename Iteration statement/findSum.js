@@ -6,6 +6,6 @@ const findSum = (n) => {
       item+=2;
     }
     return(sum);
-};
+}; 
 
 console.log(findSum(6));
