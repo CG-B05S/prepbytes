@@ -6,7 +6,7 @@ const Triangle_Check = (A,B,C) => {
               result = "acute";
            }
        
-       else{
+      else{
          result = "obtuse"
        }
        return result;
